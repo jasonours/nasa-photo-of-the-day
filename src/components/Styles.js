@@ -17,16 +17,24 @@ export const Explanation = styled.p `
     padding-bottom: 5rem;
     line-height: 1.5rem;
     font-family: 'Helvetica';
+    color: white;
 `
 
 export const PhotoTitle = styled.h2 `
     font-family: 'Helvetica';
+    color: white;
 `
 
 export const Date = styled.h3 `
     font-family: 'Helvetica';
+    color: white;
 `
 
 export const PageTitle = styled.h1 `
-font-family: 'Helvetica';
+    font-family: 'Helvetica';
+    color: white;
+`
+
+export const NasaLogo = styled.img `
+    background: transparent;
 `
