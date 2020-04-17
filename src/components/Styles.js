@@ -36,5 +36,5 @@ export const PageTitle = styled.h1 `
 `
 
 export const NasaLogo = styled.img `
-    background: transparent;
+    padding-top: 2rem;
 `
